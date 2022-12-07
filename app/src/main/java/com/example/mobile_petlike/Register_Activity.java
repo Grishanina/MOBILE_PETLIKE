@@ -43,8 +43,7 @@ public class Register_Activity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 new Register_Activity().registerUser().execute("");
-                //ytjjnhvvccfgh
-                //bbhgg hhjfdujs
+
             }
         });
     }
